@@ -1,0 +1,3 @@
+/home/sharnoby/Desktop/moatasem/embeddedLinux/address_book/build/CMakeFiles/proj.dir
+/home/sharnoby/Desktop/moatasem/embeddedLinux/address_book/build/CMakeFiles/edit_cache.dir
+/home/sharnoby/Desktop/moatasem/embeddedLinux/address_book/build/CMakeFiles/rebuild_cache.dir
