@@ -1,0 +1,3 @@
+/home/sharnoby/Desktop/moatasem/embeddedLinux/c++/lecture5/strtingclass/build/CMakeFiles/str.dir
+/home/sharnoby/Desktop/moatasem/embeddedLinux/c++/lecture5/strtingclass/build/CMakeFiles/edit_cache.dir
+/home/sharnoby/Desktop/moatasem/embeddedLinux/c++/lecture5/strtingclass/build/CMakeFiles/rebuild_cache.dir
