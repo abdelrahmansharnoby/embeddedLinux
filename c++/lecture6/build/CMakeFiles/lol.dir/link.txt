@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/lol.dir/src/main.cpp.o CMakeFiles/lol.dir/src/Triangle.cpp.o CMakeFiles/lol.dir/src/Rectangle.cpp.o CMakeFiles/lol.dir/src/Shape.cpp.o -o lol 
