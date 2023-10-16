@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/pc.dir/src/main.cpp.o CMakeFiles/pc.dir/src/command.cpp.o -o pc 

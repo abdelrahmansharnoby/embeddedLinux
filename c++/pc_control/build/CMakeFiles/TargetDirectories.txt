@@ -1,0 +1,3 @@
+/home/sharnoby/Desktop/moatasem/embeddedLinux/c++/pc_control/build/CMakeFiles/pc.dir
+/home/sharnoby/Desktop/moatasem/embeddedLinux/c++/pc_control/build/CMakeFiles/edit_cache.dir
+/home/sharnoby/Desktop/moatasem/embeddedLinux/c++/pc_control/build/CMakeFiles/rebuild_cache.dir
